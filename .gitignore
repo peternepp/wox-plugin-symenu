@@ -1,3 +1,6 @@
+# Fake 'wox.py' in project root not tracked, only for testing required (see test/fixture/wox.py)
+/wox.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
