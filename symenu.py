@@ -69,7 +69,6 @@ class SyMenu():
             except KeyError:
                 pass
 
-        print (type(xml_data))
         return xml_data
 
     def find_items(self, query):
