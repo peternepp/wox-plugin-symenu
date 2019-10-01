@@ -1,0 +1,12 @@
+{
+    "ID":"D04F82791D8C4CD08E3B7A0121AA9A92",
+    "ActionKeyword":"sy",
+    "Name":"SyMenu",
+    "Description":"Getting applications from SyMenu configuration file.",
+    "Author":"Peter Nepp",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/peternepp/wox-plugin-symenu",
+    "IcoPath":"Images\\app.ico",
+    "ExecuteFileName":"main.py"
+}
